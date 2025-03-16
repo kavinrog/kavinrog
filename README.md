@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Kavinder Roghit Kanthen!  
 
-<!--
-**kavinrog/kavinrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Machine Learning Engineer | AI Researcher | Scalable AI Solutions  
 
-Here are some ideas to get you started:
+I started my journey thinking I'd use a **stethoscope**, but I found my true calling in **diagnosing data** instead of patients. Now, I build **AI solutions that matter**—from **medical imaging** to **embedded AI and scalable machine learning systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I Do  
+- **AI for Impact** 🏥🔬 – Developed ML models for **healthcare, audio AI, and reinforcement learning**  
+- **Scalable AI Systems** 🌍🚀 – Deploying AI with **Docker, Kubernetes, MLflow, and AWS**  
+- **Model Optimization & Hardware AI** ⚡🔧 – Accelerating AI inference with **TensorRT, OpenVINO, and Edge TPU**  
+
+## 🎯 Passion & Focus  
+I love taking AI from **research to production**, making it **scalable, efficient, and real-world ready**. Whether optimizing deep learning models, deploying AI in the cloud, or integrating ML into edge devices—I thrive on solving complex challenges.  
+
+## 📢 Looking for Machine Learning Engineer Roles!  
+I'm actively seeking opportunities to **design, optimize, and deploy AI solutions at scale**.  
+
+📫 **Let's Connect:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourname)  
+💻 [GitHub](https://github.com/yourgithub)  
+
+🚀 **Let's build AI that makes a difference!**

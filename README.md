@@ -15,8 +15,6 @@ I love taking AI from **research to production**, making it **scalable, efficien
 ## 📢 Looking for Machine Learning Engineer Roles!  
 I'm actively seeking opportunities to **design, optimize, and deploy AI solutions at scale**.  
 
-📫 **Let's Connect:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourname)  
-💻 [GitHub](https://github.com/yourgithub)  
+📫 **Let's Connect**  
 
 🚀 **Let's build AI that makes a difference!**
